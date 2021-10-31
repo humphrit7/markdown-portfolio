@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm _great_ at cuddles. I'm __good__ at walking up hills. I'm _not a **silly** man **at all**_.
